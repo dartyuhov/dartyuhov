@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @dartyuhov
+- 👋 Hi, I’m @dartyuhov, Full Stack Developer
+- Founder of [Fantasy Lab](https://fantasylab.app)
 - 👀 I’m interested in java/typescript/javascript developement
 - 📫 How to reach me darst94@gmail.com or telegram @dartyuhov 
 - Checkout my cv https://dartyuhov.github.io/dartyuhov-cv/
